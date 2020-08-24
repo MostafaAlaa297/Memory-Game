@@ -19,7 +19,7 @@ body {
   perspective: 1000px;
 }
 
-@media query {
+@media only screen and (max-width: 600px) {
   .memory-game {
     width: auto;
     height: auto;
