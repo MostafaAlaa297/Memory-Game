@@ -21,7 +21,7 @@ body {
 
 @media only screen and (max-width: 600px) {
   .memory-game {
-    margin: auto 15rem;
+    margin: auto 10rem;
   }
 }
 
