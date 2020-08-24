@@ -21,8 +21,8 @@ body {
 
 @media only screen and (max-width: 600px) {
   .memory-game {
-    width: 100%;
-    height: 100%;
+    position: relative;
+    margin: auto;
   }
 }
 
