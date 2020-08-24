@@ -19,12 +19,6 @@ body {
   perspective: 1000px;
 }
 
-@media only screen and (max-width: 600px) {
-  .memory-game {
-    margin: auto 10rem;
-  }
-}
-
 .memory-card {
   width: calc(25% - 10px);
   height: calc(33.333% - 10px);
