@@ -30,7 +30,7 @@ body {
 }
 
 .memory-card:active {
-  transform: scale(.97);
+  transform: scale(.9);
   transition: transform .2s;
 }
 
@@ -63,11 +63,18 @@ body {
 
 label, span {
   font-size: 200%;
-  font-weight: bolder;
+  font-weight: bold;
   color: #ebecf1;
 }
 
+#minutes {
+  margin-left: 4.5rem;
+}
+
 button {
-  padding: 1.3rem 2.4rem;
-  margin: 10px;
+  display: block;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 1.5rem 6rem;
+  margin: auto;
 }
