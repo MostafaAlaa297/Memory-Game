@@ -62,12 +62,12 @@ body {
 }
 
 label, span {
-  font-size: 150%;
-  font-weight: bold;
+  font-size: 200%;
+  font-weight: bolder;
   color: #ebecf1;
 }
 
 button {
-  padding: 5px;
+  padding: 1.3rem 2.4rem;
   margin: 10px;
 }
