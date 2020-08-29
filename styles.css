@@ -55,7 +55,7 @@ body {
 .timer {
   border: 2px solid black;
   border-radius: 20px;
-  background-color: #ed6663;
+  background-color: #1a1a2e;
   padding: 0.75rem;
   margin: auto;
 
@@ -72,9 +72,10 @@ label, span {
 }
 
 button {
-  display: block;
+  background-color: #e94560;
   border: 1px solid black;
   border-radius: 10px;
-  padding: 1.5rem 6rem;
+  display: block;
   margin: 1rem auto auto;
+  padding: 1.5rem 6rem;
 }
