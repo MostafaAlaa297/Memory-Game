@@ -76,5 +76,5 @@ button {
   border: 1px solid black;
   border-radius: 10px;
   padding: 1.5rem 6rem;
-  margin: auto;
+  margin: 1rem auto auto;
 }
